@@ -13,7 +13,7 @@ export default function HomePage(props) {
     <View style={{padding:20}}>
 
         <Text style={css.heading}>
-            Test Topic :{"\n"}  Core Java MCQ</Text>
+            Test Topic :{"\n"}  Core Java</Text>
         <Text style={css.instr}>Instructions :</Text>
         <Text style={css.details}>* Total Number of questions are {javaQue.length}</Text>
         <Text style={css.details}>* All questions are compulsory</Text>
